@@ -1,10 +1,26 @@
-# Weather-Journal App Project
+# Landing Page Project
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+## Table of Contents
+
+- [Description](#Description)
+- [Dependencies](#Dependencies)
+- [Instructions](#instructions)
+
+## Description
+
+This is a project for the Udacity FWD web development classroom **Professional Track**
+
+## Dependencies
+
+OpenWeathermap API used to get the current weather of the country in search
 
 ## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+1. Open Website
+2. Enter country zip code
+3. Enter your feeling about the weather
+4. Date, Temperature, Feelings should now appear on the bottom text area
+
+## Contributors
+
+This project was built on the static template provided by the project resources and edited by **Abdallah Ahmed**
