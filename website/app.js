@@ -9,7 +9,7 @@ generateButton.addEventListener('click', generateWeather);
 
 function generateWeather() {
 	const d = new Date();
-	const date = d.getMonth() + '.' + d.getDate() + '.' + d.getFullYear();
+	const date = d.getMonth() + 1 + '.' + d.getDate() + '.' + d.getFullYear();
 	const zip = document.getElementById('zip').value;
 	const feelings = document.getElementById('feelings').value;
 
